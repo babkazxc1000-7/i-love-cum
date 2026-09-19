@@ -1,0 +1,88 @@
+body {
+    background-image:url(https://avatars.mds.yandex.net/i?id=4432f26ed45abedc48fc2c05bc6f8e12cdd10a43-4521347-images-thumbs&n=13);
+    background-size: cover;
+    box-sizing: border-box;
+    margin: 30px ;
+
+}
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+
+
+
+main {
+    color: darkorchid;
+    text-align: center;
+    margin-top: 100px;;
+    
+    
+}
+#catalog {
+    background-color: #e3fa4b;
+    border-radius: 5px;
+    color:rgb(238, 4, 4);
+    text-decoration: none;
+    
+
+    
+}
+#catalog:hover{
+    background-color: rgb(168, 30, 210);
+
+}
+
+#payment {
+    background-color: #e3fa4b;
+    border-radius: 5px;
+    color:rgb(238, 4, 4);
+    text-decoration: none;
+    
+}
+#payment:hover{
+    background-color: rgb(168, 30, 210);
+
+}
+
+#about {
+    background-color: #e3fa4b;
+    border-radius: 5px;
+    color:rgb(238, 4, 4);
+    text-decoration: none;
+    
+}
+#about:hover{
+    background-color: rgb(168, 30, 210);
+
+}
+
+#contact {
+    background-color: #e3fa4b;
+    border-radius: 5px;
+    color:rgb(238, 4, 4);
+    text-decoration: none;
+    
+}
+#contact:hover{
+    background-color: rgb(168, 30, 210);
+
+}
+
+
+#button {
+    background-color: #e3fa4b;
+    border-radius: 5px;
+    color:blue;
+    width: 100px;
+    height: 50px;
+}
+#button:hover{
+    background-color: rgb(168, 30, 210);
+}
